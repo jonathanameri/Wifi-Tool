@@ -1,0 +1,81 @@
+a4 48.08 33.79
+a16 24.48 22.51
+athletic back entrance 10.54 15.30
+athletic entrance 34.44 88.66
+auditorium entrance 39.30 39.95
+a wing intersection 41.89 42.13
+b4 77.80 76.67
+b6 37.73 52.80
+b8 51.59 54.78
+bathroom near g wing 15.93 10.72
+bcwing intersection 30.91 37.15
+bench 49.51 51.18
+big courtyard classroom side 3.78 3.41
+big courtyard main entrance 36.10 42.55
+bottom of other stairs 69.30 62.06
+bottom of stairs 43.71 66.11
+b wing entrance 50.09 48.58
+b wing exit 53.42 57.27
+c2 35.90 52.25
+c7 45.83 37.91
+c10 52.47 44.48
+c15 56.41 60.36
+cafeteria back 42.33 43.77
+cafeteria entrance 57.87 65.27
+cafeteria mid 47.74 59.19
+c connector 54.20 48.36
+courtyard entrance 50.70 48.80
+courtyard name bricks 15.04 15.88
+c wing exit 41.05 51.00
+c wing intersection 50.75 50.41
+d2 61.94 52.17
+d4 66.49 68.28
+d10 43.36 44.46
+d12 21.72 21.06
+dc intersections 37.69 52.45
+d connector 79.17 40.03
+d wing bathroom 49.83 21.32
+d wing exit 52.61 40.24
+e4 124.30 124.65
+e5 91.41 109.90
+e7 47.47 40.19
+e9 61.34 60.21
+e11 65.34 61.82
+e connector 109.55 88.77
+f7 59.08 73.61
+fasoli 34.67 44.61
+f courtyard intersection 38.69 45.13
+flower 61.27 56.56
+g0 77.03 64.90
+g2 19.66 35.14
+g4 59.32 50.55
+g5 14.65 22.14
+g6 47.66 51.44
+green room 26.90 8.74
+guidance entrance 46.48 51.86
+g wing exit 45.48 35.97
+g wing stairs 79.49 83.92
+h5/h1 62.87 67.93
+h6 67.07 72.36
+h bathroom 60.85 57.69
+library back 27.29 28.75
+library entrance 27.58 48.45
+library quiet study room 10.93 23.01
+library work table 23.99 47.28
+locker room hallway left 9.52 12.37
+locker room hallway middle 13.12 13.41
+locker room hallway right 54.11 64.55
+lunch tables 13.86 25.31
+main lobby 32.87 50.73
+main office back 48.97 50.17
+main office entrance 79.58 77.03
+mrs cole 66.30 56.06
+new gym left front corner 14.28 16.20
+new gym right back corner 49.40 32.70
+new gym right front corner 5.35 32.17
+nurses office 62.19 46.37
+top of stairs 31.51 41.94
+top of other stairs 44.65 51.26
+t pose 46.51 69.28
+vapecon 15.59 15.44
+vending machine 14.59 57.53
